@@ -5,6 +5,6 @@ date:   2017-01-03 14:30:00 +0000
 ---
 <html>
   <body>
-  <p><a href="PROJECT.docx" target=_blank>My English Project</a>.</p>
+  <p><a href="PROJECT.doc" target=_blank>My English Project</a>.</p>
   </body>
 <html>
