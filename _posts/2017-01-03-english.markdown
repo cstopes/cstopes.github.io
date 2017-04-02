@@ -7,8 +7,9 @@ date:   2017-01-03 14:30:00 +0000
   <body>
     <p>I had Ms. Hearne for English, and quite enjoyed my year. We had plenty of creative work to do, which I loved. I personally like writing compositions, and I think that I improved on my writing in general this year.</p>
       <ul>
-        <li><a href="https://docs.google.com/document/d/1xi4z8Dc8DXILBGtENt0G04-RIH-nixHxD4TrdduRdws/pub?embedded=true"> My English Novel Project</a></li>
-        <li><a href="https://docs.google.com/document/d/1iLXLUsmnAp0hamVry7vfDf2q0ksYx2c2lE6kkXGEIR0/pub?embedded=true"> My Autobiography</a></li>
+        <li><a href="https://docs.google.com/document/d/1xi4z8Dc8DXILBGtENt0G04-RIH-nixHxD4TrdduRdws/pub?embedded=true" target=_blank>My English Novel Project</a></li>
+        <li><a href="https://docs.google.com/document/d/1iLXLUsmnAp0hamVry7vfDf2q0ksYx2c2lE6kkXGEIR0/pub?embedded=true" target=_blank>My Autobiography</a></li>
+        <li><a href="https://docs.google.com/document/d/162Ly3TJVNX9mefZTIhrcY2rgqJ2EXqkBef9k17bpR2U/pub?embedded=true" target=_blank>My Debate Speech</a></li> 
       </ul>
   </body>
 <html>
