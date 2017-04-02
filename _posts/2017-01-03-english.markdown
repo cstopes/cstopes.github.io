@@ -7,7 +7,7 @@ date:   2017-01-03 14:30:00 +0000
   <body>
     <p>I had Ms. Hearne for English, and quite enjoyed my year. We had plenty of creative work to do, which I loved. I personally like writing compositions, and I think that I improved on my writing in general this year.</p>
       <ul>
-        <a href="https://docs.google.com/document/d/1xi4z8Dc8DXILBGtENt0G04-RIH-nixHxD4TrdduRdws/pub?embedded=true"> My English novel project</a>.
+        <a href="https://docs.google.com/document/d/1xi4z8Dc8DXILBGtENt0G04-RIH-nixHxD4TrdduRdws/pub?embedded=true"> My English Novel Project</a>.
       </ul>
   </body>
 <html>
