@@ -5,6 +5,8 @@ date:   2017-01-03 14:30:00 +0000
 ---
 <html>
   <body>
-  <iframe src="https://docs.google.com/document/d/1xi4z8Dc8DXILBGtENt0G04-RIH-nixHxD4TrdduRdws/pub?embedded=true"> My English project</iframe>
+    <p>
+      <a href="https://docs.google.com/document/d/1xi4z8Dc8DXILBGtENt0G04-RIH-nixHxD4TrdduRdws/pub?embedded=true"> My English project</a>
+    </p>
   </body>
 <html>
