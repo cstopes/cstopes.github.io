@@ -13,4 +13,4 @@ date:   2017-03-02 21:33:00 +0000
         <li><a href="https://docs.google.com/document/d/162Ly3TJVNX9mefZTIhrcY2rgqJ2EXqkBef9k17bpR2U/pub?embedded=true" target="_blank">My Debate Speech</a></li> 
       </ul>
   </body>
-<html>
+</html>
