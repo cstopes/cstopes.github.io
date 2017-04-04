@@ -11,7 +11,7 @@ date:   2017-04-04 11:20:00 +0000
     <h3>My work in computers</h3>
       <ul>
         <li><a href = "/ECDL_results" target="_blank">My ECDL Results</a></li>
-        <li><a href = "/pictures/screenshot2017-04-04" target="_blank">My Codecademy Progress</a></li>
+        <li><a href = "/pictures/Screenshot 2017-04-04 at 19.35.59.png" target="_blank">My Codecademy Progress</a></li>
       </ul>
   </body>
 </html>
