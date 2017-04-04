@@ -1,7 +1,9 @@
 ---
 layout: post
 title:  "Computers"
-date:   2017-04-04 11:20:00 +0000
+date:   <script>
+document.getElementById("demo").innerHTML = Date();
+</script>
 ---
 <html>
   <body>
