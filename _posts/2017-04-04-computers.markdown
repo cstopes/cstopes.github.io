@@ -12,7 +12,7 @@ document.getElementById("demo").innerHTML = Date();
     <p>I finished the ECDL course very quickly; completing all seven tests by February. After February, I focussed on coding. I had already completed a course in HTML and CSS in 2016, and I began to learn coding in JavaScript. This is what gave me the idea to set up a website as my portfolio. I completed most of my JavaScript course, but unfortunately had to stop to design this website. I am now fond of coding, and I hope to use coding in the future; as a hobby or as my job.</p>
     <h3>My work in computers</h3>
       <ul>
-        <li><a href = "/ECDL_results" target="_blank">My ECDL Results</a></li>
+        <li><a href = "/pictures/" target="_blank">My ECDL Results</a></li>
         <li><a href = "/pictures/Screenshot 2017-04-04 at 19.35.59.png" target="_blank">My Codecademy Progress</a></li>
       </ul>
   </body>
