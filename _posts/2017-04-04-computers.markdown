@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Computers"
-date:   2017-04-04
+date:   2017-04-04 14:33:00 +0000
 ---
 <html>
   <body>
