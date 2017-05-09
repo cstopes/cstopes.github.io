@@ -1,1 +1,6 @@
-
+<html>
+<h1>History</h1>
+<body>
+  <p>History was a good subject this year. We were busy, despite how disjointed our class was (our history class was one of the most broken-up of all). The first half of the year was spent learning about modern social changes in history; we spent a lot of time looking at changes in music, television, pop culture, fashion and film over the decades. I completed a project on the 1960s.<br>NOT FINISHED NOT FINISHED</p>
+</body>
+</html>
