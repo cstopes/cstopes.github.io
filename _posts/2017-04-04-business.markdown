@@ -1,18 +1,16 @@
 <html>
 <h1>Business</h1>
 <body>
-  <p>The learning experience of this year's business curriculuum was largely attributed to the 'Mini-Company' experience. 
+  <p>The learning experience of this year's business curriculuum was largely attributed to the 'Mini-Company' experience.</p> 
   
-  I had mixed feelings about my mini-company project: I felt like a lot of the best ideas (admittedly, mainly my ideas) weren't being considered at the beginning. I realised I knew nothing about how to manipulate people and make them think that the ideas you have are a good idea; a vital skill in the world of management that I will need to improve (I was CEO of the mini-company). 
-  
-  We decided on stealing someone else's idea and printing Newbridge College jerseys for rugby and hockey players. Unfortunately, communications with our partner broke down and we had only two weeks to arrange a new product to bring to market.
-  
-  We sold chocolate hampers along with a customizable mug at the fair. This product waxs easy to make, and I enjoyed the experience of frantically putting them together the night before the fair! The selling day was also very fun, and I realised that I am not too bad a salesperson! 
-  
-  Our group made a <strong>100% return on investment</strong>. This was a success for us, but we were never going to win any prizes. 
-  
-  Through mini-company, I learned that my general <strong>management skills</strong> needed to be improved upon and that I shouldn't overthink everything. The chocolate hampers were a novelty idea that nevertheless was successful.
-  </p>
+  <p>I had mixed feelings about my mini-company project: I felt like a lot of the best ideas (admittedly, mainly my ideas) weren't being considered at the beginning. I realised I knew nothing about how to manipulate people and make them think that the ideas you have are a good idea; a vital skill in the world of management that I will need to improve (I was CEO of the mini-company). </p><br> 
+  <p>We decided on stealing someone else's idea and printing Newbridge College jerseys for rugby and hockey players. Unfortunately, communications with our partner broke down and we had only two weeks to arrange a new product to bring to market.</p><br>
+  <p>We sold chocolate hampers along with a customizable mug at the fair. This product waxs easy to make, and I enjoyed the experience of frantically putting them together the night before the fair! The selling day was also very fun, and I realised that I am not too bad a salesperson!</p><br> 
+  <p>Our group made a <strong>100% return on investment</strong>. This was a success for us, but we were never going to win any prizes.</p><br>
+  <p>Through mini-company, I learned that my general <strong>management skills</strong> needed to be improved upon and that I shouldn't overthink everything. The chocolate hampers were a novelty idea that nevertheless was successful.</p><br>
   <ul><li>Our Mini-Company Report</li></ul>
-  <p>otherwise, business was an interesting subject in my opinion. Ms. Clear taught us about a lot of interesting topics concerning the economics of current affairs, much of which linked back to the economics curriculum.
+  <p>Otherwise, business was an interesting subject in my opinion. Ms. Clear taught us about a lot of interesting topics concerning the economics of current affairs, much of which linked back to the economics curriculum. We watched plenty of videos (an example being a documentary about the federal reserve in America), and talked about current affairs such as the housing crisis.</p><br>
+  <p>I have chosen accounting for my Leaing Cert. Unfortunately, only one day was devoted to accounting this year, as Ms. Clear was definitely not an accounting teacher. I was struggling to decide between accounting and economics, butms Clear helped steer me off the wron path, in my opinion. She told me to just do what I would like because I am well capable of "getting the points" in either (I do not want to pursue a career in accounting).</p><br>
+  <p>I enjoyed and gained something out of doing business studies this year, both on personal and academic levels.</p>
+</body>
 </html>
