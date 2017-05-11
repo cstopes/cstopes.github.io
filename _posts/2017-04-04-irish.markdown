@@ -1,1 +1,6 @@
-
+<html>
+<h1>Irish</h1>
+<body>
+  <p>Unfortunately for the subject of Irish, there is a no homework policy in Transition Year. Therefore, not much can be learned in Irish, as we do not practice any of the grammar or vocabulary we learn in class. Couple that with the disjointedness of the year, and it is tough for any student to really learn from their experience in TY Irish. Indeed, I didn't learn much this year, although we did practice what we had learned in Junior Cert Irish, in class.</p>
+</body>
+</html>
