@@ -1,1 +1,7 @@
-
+<html>
+<h1>Law</h1>
+<body>
+  <p>Law was one of the most interesting classes this year, as it was very different and unconventional. I learned about tort law, laws surrounding passing off of goods, and laws surrounding the duty of care, as well as other segments of the law curriculum.</p>
+  <ul><li>My Law Notebook</li></ul>
+</body>
+</html>
