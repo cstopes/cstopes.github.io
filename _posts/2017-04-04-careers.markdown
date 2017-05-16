@@ -1,1 +1,4 @@
-
+<html>
+<h1>Careers</h1>
+<p>Unfortunately, I only attended two classes of careers this year, and therefore did not complete any projects for this subject. I believe the rest of the class only attended four periods of careers.</p>
+</html>
