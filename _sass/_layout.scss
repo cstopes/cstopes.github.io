@@ -253,9 +253,10 @@ table, td {
 table, tr:nth-child(even){
     background-color: #e6ffff;
 }
-#clock {
-    height: 50px;
+.clock {
+    height: 30px;
     width: 100%;
+    top: 10px
 }
 
         
