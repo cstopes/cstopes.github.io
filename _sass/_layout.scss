@@ -265,6 +265,24 @@ table, tr:nth-child(even){
     width: 100%;
     background-color: #ff0000;
 }
+.subBox_subject{
+    display: inline-block;
+    position: absolute;
+    margin: 0;
+    padding: 10px; 
+    background-color: #ffffff;
+}
+.subBox_examples{
+    display: inline-block;
+    position: absolute;
+    margin: 0;
+    padding: 10px;
+    background-color: #e6e6e6;   
+}
+.subjectTitle{
+    text-size: 50px;
+    font-family: Verdana;
+}
 
         
     
