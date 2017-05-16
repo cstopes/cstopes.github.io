@@ -61,12 +61,12 @@ layout: default
             'seconds': seconds,
             'minutes': minutes,
             'hours': hours,
-            'days': days,
+            'days': days
           };
         };
         <div id='clock'></div>
         var clockInitialise = function(deadline, id) {
-          var clock = getElementById(id);
+          var clock = document.getElementById(id);
           var timeinterval = setInterval(function(){
             var t = getTimeRemaining(endtime);
             clock.innerHTML = t.days + 'days ' + t.hours + 'hrs ' + t.minutes + 'mins ' + t.seconds + 'secs';
@@ -75,7 +75,7 @@ layout: default
             }
           },1000);
         }
-        initialiseClock('clock', deadline)
+        clockInitialise('clock', deadline)
       </script>
 </div>
 </body>
