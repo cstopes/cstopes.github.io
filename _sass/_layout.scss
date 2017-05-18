@@ -262,7 +262,7 @@ table, tr:nth-child(even){
     bottom: 0px;
 }
 .subBox{
-    height: 500px;
+    height: 300px;
     width: 100%;
     background-color: #e0e0e0;
     position: relative;
@@ -288,6 +288,7 @@ table, tr:nth-child(even){
 .subjectTitle{
     text-size: 100px;
     font-family: Verdana;
+    vertical-align: middle;
 }
 .left {
     left: 0;
