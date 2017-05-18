@@ -273,7 +273,8 @@ table, tr:nth-child(even){
     background-color: #ffffff;
     width: 50%;
     height: 100%;
-    text-align: middle;
+    text-align: center;
+    vertical-align: middle;
 }
 .subBox_examples{
     position: absolute;
@@ -281,6 +282,8 @@ table, tr:nth-child(even){
     background-color: #e6e6e6; 
     width: 50%;
     height: 100%;
+    text-align: center;
+    vertical-align: middle;
 }
 #subjectTitle{
     text-size: 50px;
