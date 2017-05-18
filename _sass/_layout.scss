@@ -289,8 +289,14 @@ table, tr:nth-child(even){
     text-size: 50px;
     font-family: Verdana;
 }
-.left {left: 0;}
-.right {right: 0;}
+.left {
+    left: 0;
+    border-right: solid 1px Black;
+}
+.right {
+    right: 0;
+    border-left: solid 1px Black;
+}
 
         
     
