@@ -263,10 +263,9 @@ table, tr:nth-child(even){
 .subBox{
     height: 1000px;
     width: 100%;
-    background-color: #ff0000;
+    background-color: #e0e0e0;
 }
 .subBox_subject{
-    display: inline-block;
     position: absolute;
     margin: 0;
     padding: 10px; 
@@ -274,7 +273,6 @@ table, tr:nth-child(even){
     float: left;
 }
 .subBox_examples{
-    display: inline-block;
     position: absolute;
     right: 0;
     padding: 10px;
