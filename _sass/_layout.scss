@@ -264,18 +264,14 @@ table, tr:nth-child(even){
     height: 1000px;
     width: 100%;
     background-color: #e0e0e0;
+    position: relative;
 }
 .subBox_subject{
     position: absolute;
     padding: 10px; 
     background-color: #ffffff;
 }
-.subBox_examples{
-    position: absolute;
-    margin-right: 0;
-    padding: 10px;
-    background-color: #e6e6e6; 
-}
+
 .subjectTitle{
     text-size: 50px;
     font-family: Verdana;
