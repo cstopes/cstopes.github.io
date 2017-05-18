@@ -267,22 +267,21 @@ table, tr:nth-child(even){
 }
 .subBox_subject{
     position: absolute;
-    margin: 0;
     padding: 10px; 
     background-color: #ffffff;
-    float: left;
 }
 .subBox_examples{
     position: absolute;
     margin-right: 0;
     padding: 10px;
     background-color: #e6e6e6; 
-    float: right;
 }
 .subjectTitle{
     text-size: 50px;
     font-family: Verdana;
 }
+.left {left: 0;}
+.right {right: 0;}
 
         
     
