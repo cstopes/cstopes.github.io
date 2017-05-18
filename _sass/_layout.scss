@@ -258,8 +258,8 @@ table, tr:nth-child(even){
     height: 30px;
     width: 100%;
     top: 10px;
-    position: absolute;
-    bottom: 0px;
+    position: relative;
+    bottom: 0;
 }
 .subBox{
     height: 300px;
