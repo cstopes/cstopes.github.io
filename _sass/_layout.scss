@@ -260,11 +260,11 @@ table, tr:nth-child(even){
     background-color: #e6ffff;
 }
 .clock {
-    height: 30px;
-    width: 100%;
-    top: 10px;
-    position: relative;
-    bottom: 0;
+    height: 100%;
+    width: 30%;
+    top: 50px;
+    position: absolute;
+    margin: auto;
 }
 .subBox{
     height: 300px;
