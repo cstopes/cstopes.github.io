@@ -1,5 +1,6 @@
 <html>
-<h1>Socio-Politics</h1>
+<title>Socio-Politics</title>
+<h1>Socio-Political Education</h1>
 <div>
   <p>Mr. Newsome taught us in socio-political education this year. We had no written work in this class and we took no notes. In this class we learned about colonisation and revolution among other things. I did not attend the full eight classes because there were often other things happening in school in that time on a Thursday (career talks, presentations, etc.).</p>
 </div>
