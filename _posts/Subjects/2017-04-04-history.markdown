@@ -3,7 +3,7 @@
 <body>
   <p>History was a good subject this year. We were busy, despite how disjointed our class was (our history class was one of the most broken-up of all). The first half of the year was spent learning about modern social changes in history; we spent a lot of time looking at changes in music, television, pop culture, fashion and film over the decades. I completed a project on the 1960s.<br>The rest of the year was quite broken-up, due to how many Thursdays we seemed to miss as a class. It seemed that most TY events or school events that took place were at last class before break on a Thursday!<br>One theme we covered was history's most influential person. We had to complete a small essay on this person and why their influence was the second greatest in history (we were not allowed to pick Jesus Christ). This was a good project in that I had to research through many different sources.<br>History was a very interesting subject this year, and it is a shame I didn't have more history classes to enjoy.</p>
   <ul>
-  <li><a href = "https://docs.google.com/presentation/d/1Xw3_KfDaxnIEOvPrGyxBZ6Ka96osPXPcqlt6OQLublg/pub?start=true&loop=true&delayms=10000&embed=true" target = "_blank">The 1960s</a></li>
+  <li><a href = "https://docs.google.com/presentation/d/1Xw3_KfDaxnIEOvPrGyxBZ6Ka96osPXPcqlt6OQLublg/pub?start=true&loop=true&delayms=10000&embed=true" target = "_blank">The 1960s (Slideshow)</a></li>
   <li><a href = "https://docs.google.com/document/d/1KtUnAA1ioeY5febukx4wM3aihc26BW51S9zi8X-F82I/pub" target = "_blank">Aristotle</a></li>
   </ul>
 </body>
