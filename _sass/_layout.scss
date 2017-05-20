@@ -261,10 +261,9 @@ table, tr:nth-child(even){
 }
 #clock {
     height: 100%;
-    width: 30%;
     top: 50px;
     position: absolute;
-    margin-left: 50%;
+    margin: 0 auto;
     vertical-align: middle;
 }
 .subBox{
