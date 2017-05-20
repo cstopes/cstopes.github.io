@@ -3,8 +3,8 @@
   <body>  
     <p>Mr. Newsome and Mr. Burke were my science teachers. We learned a few interesting things in science this year. We studied optics, motion, sports injuries, space travel, and structural engineering among other things, and completed multiple projects.<br>Science class didn't do much to help me choose my science subjects for next year; I had already decided that I would be picking chemistry and physics. This is because I want to study science in third-level.</p>
     <ul>
-      <li><a href = "" target = "_blank">The Pyramids of Giza (engineering)</a></li>
-      <li><a href = "" target = "_blank">Investigation into Hooke's Law</a></li>
+      <li><a href = "https://docs.google.com/presentation/d/1odDrNgkPlOQfo-WyViJG1BjHlhhn2LIi8TVQFghkY3w/pub?start=true&loop=true&delayms=10000&embed=true" target = "_blank">The Pyramids of Giza (engineering)</a></li>
+      <li><a href = "https://docs.google.com/document/d/1J9bUqtNkg9YjPM0LYdVD3GDUVqygUdhvO87M-o2Qg9M/pubembed=true" target = "_blank">Investigation into Hooke's Law</a></li>
       <li><a href = "" target = "_blank">Fibre Optics</a></li>
     </ul>
   </body>
