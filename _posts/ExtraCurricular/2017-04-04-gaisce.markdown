@@ -2,9 +2,8 @@
 <body>
   <h1>Gaisce</h1><br>
     <p>I did not complete Gaisce this year. This was due to me starting my community service aspect very late, and due to me not being consistent and habitual enough with my other activities.</p>
-    <br>
     <h2>Sport (Gym)</h2>
-      <p>Gym was an obvious choice for my sport; the year of TY and senior rugby that I did involved gym work every Friday. I also went to my local gym. I went to the gym on average twice per week. I have gotten much stronger, which will definitely help me with rugby, GAA and soccer.</p><br>
+      <p>Gym was an obvious choice for my sport; the year of TY and senior rugby that I did involved gym work every Friday. I also went to my local gym. I went to the gym on average twice per week. I have gotten much stronger, which will definitely help me with rugby, GAA and soccer.</p>
     <h2>Community Service (Coaching in soccer)</h2>
       <p>My community service activity involved helping my brother's soccer coach out in his training sessions. My duties included laying out activities, taking warm-ups, and helping with the general organisation of training sessions.<br>Unfortunately, I did not complete 13 weeks of this activity due to a bizarre tendency to be very busy on Thursdays this year, as well as me starting very late in helping with training (I started in January).</p>
     <h2>Skill (Coding)</h2>
