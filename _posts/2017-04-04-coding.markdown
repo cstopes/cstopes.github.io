@@ -1,8 +1,4 @@
----
-layout: page
-title: My Codecademy Progress
-permalink: /coding/
----
+
 <html>
   <body>
     <ul>
