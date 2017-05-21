@@ -1,1 +1,6 @@
-
+<html>
+  <body>
+  <h1>NUI Maynooth</h1>
+    <p>My time in NUI Maynooth showed me what practical chemistry is like for leaving cert, and cemented chemistry as my science subject of choice. The people there were very kind in that they let me listen in on demonstrations and even let me run a few experiments myself. I made soap, purified benzoic acid crystals, and carried out a titration, and it wasn't very difficult at all! However, I didn't understand the content or explanations so well!</p>
+  </body>
+</html>
