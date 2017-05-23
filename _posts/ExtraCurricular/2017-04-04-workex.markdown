@@ -17,5 +17,8 @@
         <p>My placement in Pfizer didn't help much in deciding my career, but it did give me guidelines as to how I should choose my career.</p>
       <h2>Grey Abbey Small Animals Veterinary</h2>
         <p>My placement in Grey Abbey was excellent. I went to Grey Abbey not out of an interest in animals, but in surgery in general. However, I left with a sense that veterinary might be an excellent career. In Grey Abbey, I wasn't limited to cleaning out kennels and other nasty jobs, I was let sit in, and even assist in, the surgeries taking place throughout the week. Through this I realised I am really "good with blood" and I was very keenly interested in the surgeries. Plus, the staff at Grey Abbey brought their dogs into work. Who wouldn't want to be a vet!?</p>  
+      <h2>Polo Ralph Lauren</h2>
+        <p>I spent seven weeks in Polo Ralph Lauren in Kildare Village. This work experience was in preparation for a summer job; I wanted to know whether I would like to work in a retail environment, and I wanted to have work experience on my CV to give myself a better cvhance of getting a job.</p>
+        <p>This work experience was quite boring; working on a Monday certainly didn't help. Retail is definitely not a career I would like to stay in long-term, and this work experience actually might motivate me further to pursue a much better career.</p>
   </body>
 </html>
