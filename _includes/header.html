@@ -3,7 +3,7 @@
   <div class="wrapper">
 
     <a class="site-title" href="{{ site.baseurl }}/">{{ site.title }}</a>
-    <div id = "clock"><p>End of School Countdown!!</p>
+    <div id = "clock">
     <script>
     // Set the date we're counting down to
     var countDownDate = new Date("May 26, 2017 15:20:00").getTime();
@@ -24,7 +24,7 @@
         var seconds = Math.floor((distance % (1000 * 60)) / 1000);
       
         // Output the result in an element with id="demo"
-        document.getElementById("clock").innerHTML = days + "d " + hours + "h "
+        document.getElementById("clock").innerHTML = "End of School Countdown! " + days + "d " + hours + "h "
         + minutes + "m " + seconds + "s ";
     
         // If the count down is over, write some text 
