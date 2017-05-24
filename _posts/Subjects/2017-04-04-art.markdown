@@ -7,9 +7,8 @@ layout: default
   <p>I had Ms. Holmes for art this year. Art was a subject in which I didn't learn anything valuable to my school career or future career: I am not choosing art for the Leaving Certificate, and any artistic techniques I learned, I will likely not use again. However, creating a project - both as a team and individually - was an enjoyable and satisfying experience. I completed three projects in art this year:
   </p>
     <ul>
-      <li>"Tiki Head"</li>
-      <li>"Face Silhouettes"</li>
-      <li>"Famous Heads"</li>
+    <li><a href = "/pictures/">"Tiki Head"</a></li>
+    <li><a href = "/pictures/">"Op-Art"</a></li>
     </ul>
       
   
