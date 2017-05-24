@@ -8,7 +8,7 @@ layout: default
   </p>
     <ul>
     <li><a href = "/pictures/IMG_0267.JPG">"Tiki Head"</a></li>
-    <li><a href = "/pictures/">"Op-Art"</a></li>
+    <li><a href = "/pictures/IMG_0268.JPG">"Op-Art"</a></li>
     </ul>
       
   
