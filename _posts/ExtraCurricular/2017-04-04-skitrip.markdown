@@ -1,4 +1,5 @@
 <html>
+<h1>Ski Trip</h1>
   <body>
     <p>I loved every minute of the TY ski trip (well, maybe except breakfast). It was definitely the best bweek of my life; every day was an exciting new challenge. I had a great time with my friends, I was amazing on the slopes, the night-time was fun, and the teachers were laid-back. I couldn't have asked for a better school tour really (well, maybe except breakfast).</p>
     <p>The hotel was very good; they gave us plenty of food, the rooms were quite spacious and cosy, the lobby was also very spacious, making for an easy night-time experience, and the breakfast was edible. Since the wi-fi was terrible in the lobby, we all got the chance to sit around tables and play cards with each other; a superb way to connect with each other and to eliminate boredom.</p>
