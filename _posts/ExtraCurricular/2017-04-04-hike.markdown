@@ -1,6 +1,6 @@
 <html>
 <body>
 <h1>Hike</h1>
-  <p>The hike was one of my favourite TY experiences. It gave me a chance to connect with some people in my year, and it was the first group activity of the year. The hike was incredibly fun, and it involved a bit of exercise, which was great. I would love to say that I learned a lot by cooking my own dinner, but I have been a somewhat experienced cook for some time now. My favourite part of the hike by far was building the blanket fort in our room, which most of the year marvelled at. I liked this part because it was fun and because it reminded me that I had to grow up at some point!</p>
+  <p>The hike was one of my favourite TY experiences. It gave me a chance to connect with some people in my year, and it was the first group activity of the year. The hike was incredibly fun, and it involved a bit of exercise, which was great; I can say now that I have climbed (but really, walked) a mountain! I would love to say that I learned a lot by cooking my own dinner, but I have been a somewhat experienced cook for some time now. My favourite part of the hike by far was building the blanket fort in our room, which most of the year marvelled at. I liked this part because it was fun and because it reminded me that I had to grow up at some point!</p>
 </body>
 </html>
