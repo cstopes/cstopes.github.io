@@ -2,6 +2,6 @@
 <h1>Law</h1>
 <body>
   <p>Law was one of the most interesting classes this year, as it was very different and unconventional. I learned about tort law, laws surrounding passing off of goods, and laws surrounding the duty of care, as well as other segments of the law curriculum.</p>
-  <ul><li><a href = "/SCN_0003.pdf/" target = "_blank">My Law Notebook</a></li></ul>
+  <ul><li><a href = "/pictures/SCN_0003.pdf/" target = "_blank">My Law Notebook</a></li></ul>
 </body>
 </html>
