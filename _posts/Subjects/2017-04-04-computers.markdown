@@ -8,7 +8,8 @@
     <h3>My work in computers</h3>
       <ul>
         <li><a href = "/pictures/Screenshot 2017-04-04 at 19.35.59.png" target="_blank">My ECDL Results</a></li>
-        <li><a href = "/2017/04/04/coding.html/" target="_blank">My Codecademy Progress</a></li>
+        <li><a href = "/pictures/Screenshot 2017-04-05 at 19.38.04.png" target="_blank">My HTML Progress</a></li>
+        <li><a href = "/pictures/" target = "_blank">My JavaScript Progress</a></li>
       </ul>
   </body>
 </html>
