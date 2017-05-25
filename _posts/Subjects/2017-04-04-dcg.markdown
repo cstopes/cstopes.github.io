@@ -5,7 +5,7 @@
   <p>I found out that DCG required a project in which I would have to design and develop a product. While this seemed appealing, I realised it would be a lot of hard work during an important time for revision. I also didn't like the idea of studying, for instance, <strong>taps</strong>for a few months.</p>
   <p>Also, I found the SolidWorks interface very easy to grasp, so I figured I wouldn't need knowledge of it before entering university. I also was convinced that I would go down the path of science rather than engineering, so I decided against taking the subject.</p>
   <p>The DCG class itself was quite interesting; we completed many projects and I enjoyed my last time using my talents in technical graphics. The Woodwork class was completely counter-productive; I have always been terrible at woodwork, anfd I didn't complete my project.</p>
-  <img src = "/pictures/trainAssemblyIso" class = "dcg-img" alt = "DCG Train Project"><img src = "/pictures/trainAssembly" class = "dcg-img" alt = "DCG Train Project"><img src = "/pictures/trainAssemblyxxxxx" class = "dcg-img" alt = "DCG Train Project>
+  <img src = "/pictures/trainAssemblyIsometric.PNG" class = "dcg-img" alt = "DCG Train Project"><img src = "/pictures/trainAssembly.PNG" class = "dcg-img" alt = "DCG Train Project"><img src = "/pictures/trainAssemblyPlan.PNG" class = "dcg-img" alt = "DCG Train Project>
   
 </body>
 <html>
