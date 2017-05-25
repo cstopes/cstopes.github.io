@@ -6,6 +6,6 @@
     <p>We sold chocolate hampers along with a customizable mug at the fair. This product waxs easy to make, and I enjoyed the experience of frantically putting them together the night before the fair! The selling day was also very fun, and I realised that I am not too bad a salesperson!</p>
     <p>Our group made a <strong>100% return on investment</strong>. This was a success for us, but we were never going to win any prizes!</p>
   <p>Through mini-company, I learned that my general <strong>management skills</strong> needed to be improved upon and that I shouldn't overthink everything. The chocolate hampers were a novelty idea that nevertheless was successful.</p>
-  <ul><li>Our Mini-Company Report</li></ul>
+  <ul><li><a href = "https://docs.google.com/document/d/1Dk889ObFBV-mIE9-45Hp3cFW-iJ3yesaNlEkUskL8_U/pub" target = "_blank">Our Mini-Company Report</a></li></ul>
   </body>
 </html>
