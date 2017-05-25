@@ -7,6 +7,6 @@
   <p>The DCG class itself was quite interesting; we completed many projects and I enjoyed my last time using my talents in technical graphics. The Woodwork class was completely counter-productive; I have always been terrible at woodwork, anfd I didn't complete my project.</p>
   <img src = "/pictures/trainAssemblyIsometric.PNG" class = "dcg-img" alt = "DCG Train Project"><img src = "/pictures/trainAssembly.PNG" class = "dcg-img" alt = "DCG Train Project"><img src = "/pictures/trainAssemblyPlan.PNG" class = "dcg-img" alt = "DCG Train Project">
   <p>My Train Assembly Project. I did not make the parts, but I assembled them.</p><br>
-  <img src = "/pictures/tSquare.PNG" alt = "T-Square" class = "dcg-img"><p>My T-Square Project. I made this myself.</p>
+  <img src = "/pictures/tSquareIso.PNG" alt = "T-Square" class = "dcg-img"><p>My T-Square Project. I made this myself.</p>
 </body>
 <html>
