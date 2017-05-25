@@ -4,6 +4,6 @@
   <p>I had Ms. Heinz for German this year. This year my German has unquestionably not improved, which is a shame because I am doing it at higher level for Leaving Cert. The first half of our year in German consisted of watching 'Deutschland 83', a German TV series about Cold War Germany. This taught me nothing about German or history.</p>
   <p>The rest of our year consisted of attempting activities in the TY German workbook. This wasn't very beneficial as we didn't actually <em>learn</em> any new words that we saw, and we didn't improve our grammar at all.</p>
   <p>This year, I should have worked by myself to improve my German, but I didn't take that opportunity. Therefore, I may have even gotten worse at German than I was at Junior Cert level. However, I will still take on German for my Leaving Cert, because I learned that I will probably need a foreign language as a minimum requirement for any course I might take on in university.</p>
-  <ul><li><a href = "/pictures/german.pdf">Some German Exericises</a></li></ul>
+  <ul><li><a href = "/pictures/german.pdf">Some German Exercises</a></li></ul>
 </body>
 </html>
