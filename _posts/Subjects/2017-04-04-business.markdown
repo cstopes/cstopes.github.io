@@ -1,9 +1,9 @@
 <html>
 <h1>Business</h1>
 <body>
-  <p>The learning experience of this year's business curriculuum was largely attributed to the 'Mini-Company' experience.</p> 
+  <p>The learning experience of this year's business curriculum was largely attributed to the 'Mini-Company' experience.</p> 
   <p>Otherwise, business was an interesting subject in my opinion. Ms. Clear taught us about a lot of interesting topics concerning the economics of current affairs, much of which linked back to the economics curriculum. We watched plenty of videos (an example being a documentary about the federal reserve in America), and talked about current affairs such as the housing crisis.</p>
-  <p>I have chosen accounting for my Leaving Cert. Unfortunately, only one day was devoted to accounting this year, as Ms. Clear was definitely not an accounting teacher. I was struggling to decide between accounting and economics, butms Clear helped steer me off the wron path, in my opinion. She told me to just do what I would like because I am well capable of "getting the points" in either (I do not want to pursue a career in accounting).</p>
+  <p>I have chosen accounting for my Leaving Cert. Unfortunately, only one day was devoted to accounting this year, as Ms. Clear was definitely not an accounting teacher. I was struggling to decide between accounting and economics, but Ms. Clear helped steer me off the wrong path, in my opinion. She told me to just do what I would like because I am well capable of "getting the points" in either (I do not want to pursue a business or accounting career).</p>
   <p>I enjoyed and gained something out of doing business studies this year, both on personal and academic levels.</p>
   <ul><li><a href = "/pictures/business.pdf">Business Notes</a></li></ul>
 </body>
