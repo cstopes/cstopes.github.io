@@ -2,7 +2,7 @@
   <h1>Science</h1>
   <body>  
     <p>Mr. Newsome and Mr. Burke were my science teachers. We learned a few interesting things in science this year. We studied optics, motion, sports injuries, space travel, and structural engineering among other things, and completed multiple projects.</p>
-    <p>Science class didn't do much to help me choose my science subjects for next year; I had already decided that I would be picking chemistry and physics. This is because I want to study science in third-level.</p>
+    <p>Science class didn't do much to help me choose my science subjects for next year; I had already decided that I would be picking chemistry and physics. This is because I want to study a science course in third level and science courses often require two science subjects. I was also turned away from biology because of the amount of content and rote learning that had to be done in biology.</p>
     <h2>My Work in Science</h2>
     <ul>
       <li><a href = "https://docs.google.com/presentation/d/1odDrNgkPlOQfo-WyViJG1BjHlhhn2LIi8TVQFghkY3w/pub?start=true&loop=true&delayms=10000&embed=true" target = "_blank">The Pyramids of Giza (engineering)</a></li>
