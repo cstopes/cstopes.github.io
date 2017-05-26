@@ -6,9 +6,10 @@ layout: default
   <h1>Art</h1>
   <p>I had Ms. Holmes for art this year. Art was a subject in which I didn't learn anything valuable to my school career or future career: I am not choosing art for the Leaving Certificate, and any artistic techniques I learned, I will likely not use again. However, creating a project - both as a team and individually - was an enjoyable and satisfying experience. I completed a few projects in art this year, here are the two I completed individually:
   </p>
+  <h2>My Art Projects</h2>
 
-<img src = "/pictures/IMG_0267.JPG"><p>"Tiki Head"</p>
-<img src = "/pictures/IMG_0268.JPG"><p>"Op-Art"</p>
+  <h3>"Tiki Head"</h3><img src = "/pictures/IMG_0267.JPG">
+  <h3>"Op-Art"</h3><img src = "/pictures/IMG_0268.JPG">
  
       
   
