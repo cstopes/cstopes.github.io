@@ -6,10 +6,12 @@
     <p>The ski resort was fantastic; I found the slopes quite suitable for a beginner; easy to master and very wide. The ski-park was my favourite slope! I started out as a beginner this year, and was able to tackle a black slope by the end of the trip, courtesy of our brilliant instructor Giaccomo.</p>
     <p>The weather and scenery could only add to the fantastic, once in a lifetime trip.</p>
     <img style = "height:400px" src = "/pictures/3.jpg"><img style = "height:400px;margin:0.5%" src = "/pictures/4.jpg"> 
-    <img style = "height:400px" src = "/pictures/7.jpg"><img style = "height:400px;margin:0.5%" src = "/pictures/11.jpg">
+    <img style = "height:400px" src = "/pictures/7.jpg">
+    <img style = "height:400px;margin:0.5%" src = "/pictures/11.jpg"><img style = "height:400px;margin:0.5%" src = "/pictures/24.jpg">
     <img style = "height:400px" src = "/pictures/12.jpg"><img style = "height:400px;margin:0.5%" src = "/pictures/14.jpg">
-    <img style = "height:400px" src = "/pictures/22.jpg"><img style = "height:400px;margin:0.5%" src = "/pictures/24.jpg">
-    <img style = "height:400px" src = "/pictures/26.jpg"><img style = "height:400px;margin:0.5%" src = "/pictures/27.jpg">
-    <img style = "height:400px" src = "/pictures/32.jpg"><img style = "height:400px;margin:0.5%" src = "/pictures/39.jpg">
+    <img style = "height:400px" src = "/pictures/22.jpg">
+    <img style = "height:400px" src = "/pictures/26.jpg">
+    <img style = "height:400px;margin:0.5%" src = "/pictures/27.jpg"><img style = "height:400px;margin:0.5%" src = "/pictures/39.jpg">
+    <img style = "height:400px" src = "/pictures/32.jpg">
   </body>
 </html>
