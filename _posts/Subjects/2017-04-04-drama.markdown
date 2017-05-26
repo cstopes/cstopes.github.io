@@ -1,6 +1,6 @@
 <html>
 <h1>Drama</h1>
 <body>
-  <p>Drama was definitely the most fun class of the year!! While I learned next to nothing (I was always fearless at standing up in front of people and making an eejit of myself), I had lots of fun! We often had to plan our own sketches, use improvisation and read from real scripts. We also tried to make a short film, which failed badly. drama also inspired meto take part in the musical and variety shpow from now on, even though i can't sing or dance. I had frgotten how fun it was just to perform <em>anything</em> in front of people!</p>
+  <p>Drama was definitely the most fun class of the year!! While I learned next to nothing (I was always fearless at standing up in front of people and making an eejit of myself), I had lots of fun! We often had to plan our own sketches, use improvisation and read from real scripts. We also tried to make a short film, which failed badly. drama also inspired meto take part in the musical and variety show from now on, even though I can't sing or dance. I had forgotten how fun it was just to perform <em>anything</em> in front of people!</p>
 </body>
 </html>
