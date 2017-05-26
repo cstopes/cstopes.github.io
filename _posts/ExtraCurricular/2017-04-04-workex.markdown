@@ -1,7 +1,7 @@
 <html>
   <body>
     <h1>Work Experience</h1>
-      <p>Work experience was very valuable this year. It was the main reason I did TY, and I am glad this is the case. It helped me narrow down subjects for leaving cert, as well as giving me experience of what some possible workplaces would be like.</p>
+      <p>Work experience was very valuable this year. It was the main reason I did TY, and I am glad this is the case. It helped me narrow down subjects for Leaving Certificate, as well as giving me experience of what some possible workplaces would be like.</p>
       <h3>ENFER Labs</h3>
         <p>I was offered a placement in ENFER Labs, Naas. ENFER is a business that carries out various tests in cattle, for farmers. They test for diseases, such as tuberculosis and bovine diarrhoea, as well as for pregnancy. They also carry out meat speciation tests on a variety of meats.</p>
         <p>This was my most enjoyable placement. My mentor was very nice, and gave me plenty to work on alongside her (including running experiments with out-of-date kits, for example). Through this, I got a great feel for what work in a lab would be like: quite repetitive. Experiments in a testing lab can be quite dull and repetitive. I was personally situated in the research and development department of the labs, and still found that tests needed to be repeated again and again with different variables to find results.</p>
