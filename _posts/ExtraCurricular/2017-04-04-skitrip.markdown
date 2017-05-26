@@ -5,11 +5,11 @@
     <p>The hotel was very good; they gave us plenty of food, the rooms were quite spacious and cosy, the lobby was also very spacious, making for an easy night-time experience, and the breakfast was edible. Since the wi-fi was terrible in the lobby, we all got the chance to sit around tables and play cards with each other; a superb way to connect with each other and to eliminate boredom.</p>
     <p>The ski resort was fantastic; I found the slopes quite suitable for a beginner; easy to master and very wide. The ski-park was my favourite slope! I started out as a beginner this year, and was able to tackle a black slope by the end of the trip, courtesy of our brilliant instructor Giaccomo.</p>
     <p>The weather and scenery could only add to the fantastic, once in a lifetime trip.</p>
-    <img style = "height:400px" src = "/pictures/3.jpg"><img style = "height:400px" src = "/pictures/4.jpg"> 
-    <img style = "height:400px" src = "/pictures/7.jpg"><img style = "height:400px" src = "/pictures/11.jpg">
-    <img style = "height:400px" src = "/pictures/12.jpg"><img style = "height:400px" src = "/pictures/14.jpg">
-    <img style = "height:400px" src = "/pictures/22.jpg"><img style = "height:400px" src = "/pictures/24.jpg">
-    <img style = "height:400px" src = "/pictures/26.jpg"><img style = "height:400px" src = "/pictures/27.jpg">
-    <img style = "height:400px" src = "/pictures/32.jpg"><img style = "height:400px" src = "/pictures/39.jpg">
+    <img style = "height:400px" src = "/pictures/3.jpg"><img style = "height:400px;margin:1%" src = "/pictures/4.jpg"> 
+    <img style = "height:400px" src = "/pictures/7.jpg"><img style = "height:400px;margin:1%" src = "/pictures/11.jpg">
+    <img style = "height:400px" src = "/pictures/12.jpg"><img style = "height:400px;margin:1%" src = "/pictures/14.jpg">
+    <img style = "height:400px" src = "/pictures/22.jpg"><img style = "height:400px;margin:1%" src = "/pictures/24.jpg">
+    <img style = "height:400px" src = "/pictures/26.jpg"><img style = "height:400px;margin:1%" src = "/pictures/27.jpg">
+    <img style = "height:400px" src = "/pictures/32.jpg"><img style = "height:400px;margin:1%" src = "/pictures/39.jpg">
   </body>
 </html>
