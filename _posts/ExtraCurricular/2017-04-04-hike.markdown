@@ -2,9 +2,9 @@
 <body>
 <h1>Hike</h1>
   <p>The hike was one of my favourite TY experiences. It gave me a chance to connect with some people in my year, and it was the first group activity of the year. The hike was incredibly fun, and it involved a bit of exercise, which was great; I can say now that I have climbed (but really, walked) a mountain! I would love to say that I learned a lot by cooking my own dinner, but I have been a somewhat experienced cook for some time now. My favourite part of the hike by far was building the blanket fort in our room, which most of the year marvelled at, but a certain Mr. Corbett wasn't too pleased about. He was probably just jealous. I liked the blanket fort because it was fun and because it reminded me that I had to grow up at some point!</p>
-  <img src = "14440657_1784741868435686_2687529616039959716_n.jpg">
-  <img src = "14441206_1784742151768991_5870405008738793293_n.jpg">
-  <img src = "14446114_1784742098435663_3846957035776253555_n.jpg">
-  <img src = "14485015_1784742061769000_3650046334125496636_n.jpg">
+  <img src = "14440657_1784741868435686_2687529616039959716_n.jpg" style = width:50%;float:left;>
+  <img src = "14441206_1784742151768991_5870405008738793293_n.jpg" style = width:50%;float:right;>
+  <img src = "14446114_1784742098435663_3846957035776253555_n.jpg" style = width:50%;float:left>
+  <img src = "14485015_1784742061769000_3650046334125496636_n.jpg" style = width:50%;float:right;>
 </body>
 </html>
