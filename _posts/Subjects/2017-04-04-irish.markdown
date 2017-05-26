@@ -3,8 +3,8 @@
 <body>
   <p>Unfortunately for the subject of Irish, there is a no homework policy in Transition Year. Therefore, not much can be learned in Irish, as we do not practice any of the grammar or vocabulary we learn in class. Couple that with the disjointedness of the year, and it is tough for any student to really learn from their experience in TY Irish. Indeed, I didn't learn much this year, although we did practice what we had learned in Junior Cert Irish, in class.</p>
   <h2>My Work in Irish</h2>
-  <img src = "/pictures/IMG_0269.JPG" alt = "Irish Proverb Poster" style = "width: 75%; vertical-align: center;"><p>Irish Proverb Poster</p>
-  <img src = "/pictures/IMG_0270.JPG" alt = "Ceol poster" style = "width: 75%; vertical-align: center;"><p>Ceol Poster</p>
+  <h3>Irish Proverb Poster</h3><img src = "/pictures/IMG_0269.JPG" alt = "Irish Proverb Poster" style = "width: 75%; vertical-align: center;">
+  <h3>Ceol Poster</h3><img src = "/pictures/IMG_0270.JPG" alt = "Ceol poster" style = "width: 75%; vertical-align: center;">
 
 </body>
 </html>
