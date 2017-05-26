@@ -7,10 +7,11 @@ title:  "English"
   <h1>English</h1>
     <p>I had Ms. Hearne for English, and quite enjoyed my year. We had plenty of creative work to do, which I loved. I personally like writing compositions, and I think that I improved on my writing in general this year.</p>
     <p>As well as plenty of writing, Ms. Hearne also took me and five others from TY to a debate in the Kildare County Council chambers, which I had to write a <a href="https://docs.google.com/document/d/162Ly3TJVNX9mefZTIhrcY2rgqJ2EXqkBef9k17bpR2U/pub?embedded=true" target="_blank">speech</a> for. This was a great experience, as I love debating, and I got some insight into what the life of a politician/council member is like.</p>
+    <h2>My Work in English</h2>
       <ul>
-        <li><a href="https://docs.google.com/document/d/1xi4z8Dc8DXILBGtENt0G04-RIH-nixHxD4TrdduRdws/pub?embedded=true" target="_blank">My English Novel Project</a></li>
+        <li><a href="https://docs.google.com/document/d/1xi4z8Dc8DXILBGtENt0G04-RIH-nixHxD4TrdduRdws/pub?embedded=true" target="_blank">English Novel Project ('The Weight of Water')</a></li>
         <li><a href="https://docs.google.com/document/d/1iLXLUsmnAp0hamVry7vfDf2q0ksYx2c2lE6kkXGEIR0/pub?embedded=true" target="_blank">My Autobiography</a></li>
-        <li><a href="https://docs.google.com/document/d/162Ly3TJVNX9mefZTIhrcY2rgqJ2EXqkBef9k17bpR2U/pub?embedded=true" target="_blank">My Debate Speech</a></li> 
+        <li><a href="https://docs.google.com/document/d/162Ly3TJVNX9mefZTIhrcY2rgqJ2EXqkBef9k17bpR2U/pub?embedded=true" target="_blank">Debate Speech</a></li> 
       </ul>
   </body>
 </html>
