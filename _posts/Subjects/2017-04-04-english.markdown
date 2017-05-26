@@ -5,7 +5,7 @@ title:  "English"
 <html>
   <body>
   <h1>English</h1>
-    <p>I had Ms. Hearne for English, and quite enjoyed my year. We had plenty of creative work to do, which I loved. I personally like writing compositions, and I think that I improved on my writing in general this year.</p>
+    <p>I had Ms. Hearne for English, and quite enjoyed my year. We had plenty of creative work to do, which I loved. I personally like writing compositions, and I think that I improved on my writing in general this year. We studied media, film, written fiction and some poetry this year. Some of the project Ms. Hearne gave us had sections realistic to the Leaving Cert; especially the project on 'The Weight of Water'.</p>
     <p>As well as plenty of writing, Ms. Hearne also took me and five others from TY to a debate in the Kildare County Council chambers, which I had to write a <a href="https://docs.google.com/document/d/162Ly3TJVNX9mefZTIhrcY2rgqJ2EXqkBef9k17bpR2U/pub?embedded=true" target="_blank">speech</a> for. This was a great experience, as I love debating, and I got some insight into what the life of a politician/council member is like.</p>
     <h2>My Work in English</h2>
       <ul>
