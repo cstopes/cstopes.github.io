@@ -1,7 +1,7 @@
 <html>
 <h1>Cooking (<strong>NOT</strong> Home Economics!!!)</h1>
 <body>
-  <p>Cooking class was quite a productive class. I learned a lot of new recipes that could be quite useful for me to use when noodles aren't an option in university. Some recipes included:</p>
+  <p>Cooking class was quite a productive class. I learned a lot of new recipes that could be quite useful for me when noodles aren't an option in university. Some recipes included:</p>
   <ul>
   <li>Steak and Pepper Sauce</li>
   <li>Chicken Stir Fry</li>
